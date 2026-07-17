@@ -1,5 +1,9 @@
 # epaper433 — WT450 wireless sensor (ESP32 + ePaper)
 
+<p align="center">
+  <img src="assets/epaper433-banner.png" alt="epaper433 — WT450 wireless sensor" width="720">
+</p>
+
 **Languages:** [English](README.md) · [Deutsch](README_DE.md)
 
 Measure temperature with a **DS18B20**, show it on a **LilyGO T5 2.13" ePaper**, and transmit via **433 MHz** using the **WT450 / WT450H** protocol. Between cycles the ESP32 sleeps (light sleep or deep sleep). The onboard button wakes the board and starts a measurement immediately.

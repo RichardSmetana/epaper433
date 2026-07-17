@@ -1,5 +1,9 @@
 # epaper433 — WT450-Funksensor (ESP32 + ePaper)
 
+<p align="center">
+  <img src="assets/epaper433-banner.png" alt="epaper433 — WT450 Funksensor" width="720">
+</p>
+
 **Sprachen:** [English](README.md) · [Deutsch](README_DE.md)
 
 Temperatur über **DS18B20** messen, auf dem **LilyGO T5 2.13"-ePaper** anzeigen und per **433 MHz** im **WT450/WT450H-Protokoll** senden. Zwischen den Zyklen schläft der ESP32 (Light Sleep oder Deep Sleep). Die Onboard-Taste weckt das Board und startet sofort einen Messzyklus.
