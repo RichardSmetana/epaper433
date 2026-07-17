@@ -256,7 +256,8 @@ epaper433/
 ├── Ds18b20OneWire.h/cpp  DS18B20 (OneWireESP32 / RMT)
 ├── Wt450Send.h/cpp       WT450 protocol
 ├── LowPowerSleep.h/cpp   Light/deep sleep + button wake + GPIO hold
-├── epaper433_logo.h      Splash bitmap
+├── epaper433_logo.h      Splash bitmap (PROGMEM)
+├── assets/               Logo source images
 ├── Dbg.h                 Debug macros
 ├── LICENSE               GPL-3.0
 ├── README.md             English

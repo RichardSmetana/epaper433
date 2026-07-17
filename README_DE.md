@@ -259,6 +259,7 @@ epaper433/
 ├── Wt450Send.h/cpp       WT450-Funkprotokoll
 ├── LowPowerSleep.h/cpp   Light/Deep Sleep + Taste + GPIO-Hold
 ├── epaper433_logo.h      Splash-Logo (Bitmap)
+├── assets/               Logo-Quellbilder
 ├── Dbg.h                 Debug-Makros
 ├── LICENSE               GPL-3.0
 ├── README.md             English
